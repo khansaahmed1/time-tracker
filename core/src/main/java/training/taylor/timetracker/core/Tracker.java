@@ -19,7 +19,7 @@ public class Tracker {
         if (true)
             entries.remove(entry);
 
-        entries.remove(entry);
+      //  entries.remove(entry);
     }
 
     public int size() {
